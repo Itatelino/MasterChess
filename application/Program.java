@@ -1,8 +1,8 @@
-package aplicacao;
+package application;
 
 import boardgame.Position;
 
-public class Programa {
+public class Program {
 
     public static void main(String[] args) {
 
